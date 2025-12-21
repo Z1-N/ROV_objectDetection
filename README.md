@@ -36,15 +36,15 @@ results.show()
 
 ## Model Metrics
 
-<img src="https://drive.google.com/thumbnail?id=1VxgLdyZF9TQd-gY9cZL0uHC_uSzWbr-R" alt="Screenshot of the Model metrics" width="600">
+<img src="https://drive.google.com/uc?export=view&id=1VxgLdyZF9TQd-gY9cZL0uHC_uSzWbr-R" alt="Screenshot of the Model metrics" width="800">
 
 ## Examples
 
 Here are some examples of the model tested on various competition objects:
 
-<img src="https://drive.google.com/thumbnail?id=1JLFItT60he9dBL4OjY0Vcbs0cU23_53S" alt="Model Tested on Various Competition Objects" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1JLFItT60he9dBL4OjY0Vcbs0cU23_53S" alt="Model Tested on Various Competition Objects" width="600">
 
-<img src="https://drive.google.com/thumbnail?id=1cq-mnYusr-YcAq_0-jzYlqcQcUvDSPt9" alt="Model Tested on Various Competition Objects" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1cq-mnYusr-YcAq_0-jzYlqcQcUvDSPt9" alt="Model Tested on Various Competition Objects" width="600">
 
 ## Training
 
