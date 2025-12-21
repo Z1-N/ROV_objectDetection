@@ -5,7 +5,7 @@ This repository contains a YOLO (You Only Look Once) model trained for object de
 ## Model Details
 
 - **Model File**: `gate_model.pt`
-- **Framework**: PyTorch (assuming based on .pt extension)
+- **Framework**: PyTorch
 - **Purpose**: Detect gates in underwater environments for autonomous navigation and task completion in SAUVC.
 
 ## Installation
@@ -34,6 +34,18 @@ results = model('path/to/image.jpg')
 results.show()
 ```
 
+## Model Metrics
+
+<img src="https://drive.google.com/thumbnail?id=1VxgLdyZF9TQd-gY9cZL0uHC_uSzWbr-R" alt="Screenshot of the Model metrics" width="600">
+
+## Examples
+
+Here are some examples of the model tested on various competition objects:
+
+<img src="https://drive.google.com/thumbnail?id=1JLFItT60he9dBL4OjY0Vcbs0cU23_53S" alt="Model Tested on Various Competition Objects" width="400">
+
+<img src="https://drive.google.com/thumbnail?id=1cq-mnYusr-YcAq_0-jzYlqcQcUvDSPt9" alt="Model Tested on Various Competition Objects" width="400">
+
 ## Training
 
 If you need to retrain the model, refer to the YOLO documentation or provide training scripts.
@@ -42,6 +54,5 @@ If you need to retrain the model, refer to the YOLO documentation or provide tra
 
 Feel free to contribute by opening issues or pull requests.
 
-## License
 
-[Add license if applicable]
+
